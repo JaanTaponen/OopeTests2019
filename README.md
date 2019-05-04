@@ -9,7 +9,7 @@ Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 Javan tulee myös olla asennettuna.
 
 # Ohjeita
-1. Aseta oma harjoitustyosi kansioon "harjoitustyo"
+1. Käännä ja aseta oma harjoitustyosi kansioon "harjoitustyo" (MUISTA ASETTAA TAVUKOODI eli .class tiedostot)
 2. "bash test.sh"
 3. ????
 4. profit 

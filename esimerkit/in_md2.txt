@@ -1,0 +1,13 @@
+md tmp
+md home
+md bin
+md etc
+cd tmp
+md code.old
+md test
+md code
+cd ..
+cd home
+md aa00000
+md csjola
+exit

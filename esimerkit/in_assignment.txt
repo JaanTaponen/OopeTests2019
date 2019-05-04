@@ -1,0 +1,39 @@
+pwd
+md pics
+cd pics
+md cats
+cd cats
+mf ceiling_cat.gif 3677
+mf dangerous_kiten.jpg 13432
+mv dangerous_kiten.jpg dangerous_kitten.jpg
+ls
+ls *.jpg
+cd ..
+md dogs
+cd dogs
+mf world's_ugliest_dog.jpg 118088
+mf worlds_ugliest_dog.jpg 118088
+cd
+ls
+md temp
+cd temp
+mf temp_file.txt 0
+mf another_temp_file 1
+ls
+rm *file*
+mf memo.txt 42
+cp memo.txt memo_backup.txt
+ls
+md backup
+cp *.txt backup
+cp memo.txt backup
+ls
+cd backup
+ls
+cd ..
+rm memo.txt
+rm backup
+ls
+cd
+find
+exit

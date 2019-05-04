@@ -1,0 +1,5 @@
+md tmp
+md home
+md bin
+md etc
+exit

@@ -1,0 +1,14 @@
+md tmp
+md home
+md bin
+md etc
+cd tmp
+cd ..
+cd home
+cd
+cd bin
+cd ..
+cd etc
+cd ..
+cd tmp
+exit

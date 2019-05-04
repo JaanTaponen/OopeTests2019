@@ -1,0 +1,66 @@
+Welcome to SOS.
+/>pwd
+Error!
+/>md pics
+/>cd pics
+/pics/>md cats
+/pics/>cd cats
+/pics/cats/>mf ceiling_cat.gif 3677
+/pics/cats/>mf dangerous_kiten.jpg 13432
+/pics/cats/>mv dangerous_kiten.jpg dangerous_kitten.jpg
+/pics/cats/>ls
+ceiling_cat.gif 3677
+dangerous_kitten.jpg 13432
+/pics/cats/>ls *.jpg
+dangerous_kitten.jpg 13432
+/pics/cats/>cd ..
+/pics/>md dogs
+/pics/>cd dogs
+/pics/dogs/>mf world's_ugliest_dog.jpg 118088
+Error!
+/pics/dogs/>mf worlds_ugliest_dog.jpg 118088
+/pics/dogs/>cd
+/>ls
+pics/ 2
+/>md temp
+/>cd temp
+/temp/>mf temp_file.txt 0
+/temp/>mf another_temp_file 1
+/temp/>ls
+another_temp_file 1
+temp_file.txt 0
+/temp/>rm *file*
+/temp/>mf memo.txt 42
+/temp/>cp memo.txt memo_backup.txt
+/temp/>ls
+memo.txt 42
+memo_backup.txt 42
+/temp/>md backup
+/temp/>cp *.txt backup
+/temp/>cp memo.txt backup
+Error!
+/temp/>ls
+backup/ 2
+memo.txt 42
+memo_backup.txt 42
+/temp/>cd backup
+/temp/backup/>ls
+memo.txt 42
+memo_backup.txt 42
+/temp/backup/>cd ..
+/temp/>rm memo.txt
+/temp/>rm backup
+/temp/>ls
+memo_backup.txt 42
+/temp/>cd
+/>find
+pics/ 2
+cats/ 2
+ceiling_cat.gif 3677
+dangerous_kitten.jpg 13432
+dogs/ 1
+worlds_ugliest_dog.jpg 118088
+temp/ 1
+memo_backup.txt 42
+/>exit
+Shell terminated.

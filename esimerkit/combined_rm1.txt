@@ -1,0 +1,41 @@
+Welcome to SOS.
+/>mf OmaListaTesti.java 7341
+/>mf HakemistoTesti.java 10300
+/>mf TietoTesti.java 6914
+/>mf a.txt 5
+/>mf README 100
+/>mf .gitignore 85
+/>mf mf_test.txt 20
+/>ls
+.gitignore 85
+HakemistoTesti.java 10300
+OmaListaTesti.java 7341
+README 100
+TietoTesti.java 6914
+a.txt 5
+mf_test.txt 20
+/>rm OmaListaTesti.java
+/>ls
+.gitignore 85
+HakemistoTesti.java 10300
+README 100
+TietoTesti.java 6914
+a.txt 5
+mf_test.txt 20
+/>rm mf_test.txt
+/>rm a.txt
+/>ls
+.gitignore 85
+HakemistoTesti.java 10300
+README 100
+TietoTesti.java 6914
+/>rm README
+/>rm .gitignore
+/>ls
+HakemistoTesti.java 10300
+TietoTesti.java 6914
+/>rm TietoTesti.java
+/>rm HakemistoTesti.java
+/>ls
+/>exit
+Shell terminated.

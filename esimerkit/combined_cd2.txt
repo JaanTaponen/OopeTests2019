@@ -1,0 +1,39 @@
+Welcome to SOS.
+/>md tmp
+/>md home
+/>md bin
+/>md etc
+/>cd tmp
+/tmp/>md code.old
+/tmp/>cd code.old
+/tmp/code.old/>md test
+/tmp/code.old/>cd test
+/tmp/code.old/test/>cd ..
+/tmp/code.old/>cd ..
+/tmp/>md code
+/tmp/>cd code
+/tmp/code/>md oope_testit
+/tmp/code/>cd oope_testit
+/tmp/code/oope_testit/>cd ..
+/tmp/code/>cd ..
+/tmp/>cd ..
+/>cd home
+/home/>md aa00000
+/home/>cd aa00000
+/home/aa00000/>md oope2
+/home/aa00000/>cd oope2
+/home/aa00000/oope2/>md aa00000
+/home/aa00000/oope2/>cd
+/>cd home
+/home/>cd aa00000
+/home/aa00000/>cd oope2
+/home/aa00000/oope2/>cd aa00000
+/home/aa00000/oope2/aa00000/>md harjoitustyo
+/home/aa00000/oope2/aa00000/>cd harjoitustyo
+/home/aa00000/oope2/aa00000/harjoitustyo/>md apulaiset
+/home/aa00000/oope2/aa00000/harjoitustyo/>cd apulaiset
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>cd
+/>md csjola
+/>cd csjola
+/csjola/>exit
+Shell terminated.

@@ -1,0 +1,8 @@
+mf OmaListaTesti.java 7341
+mf HakemistoTesti.java 10300
+mf TietoTesti.java 6914
+mf a.txt 5
+mf README 100
+mf .gitignore 85
+mf mf_test.txt 20
+exit

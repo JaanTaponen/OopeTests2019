@@ -1,0 +1,71 @@
+Welcome to SOS.
+/>ls *
+/>md tmp
+/>md home
+/>md bin
+/>ls *
+bin/ 0
+home/ 0
+tmp/ 0
+/>ls b*
+bin/ 0
+/>ls *p
+tmp/ 0
+/>ls *m*
+home/ 0
+tmp/ 0
+/>cd bin
+/bin/>mf grep 211224
+/bin/>ls *
+grep 211224
+/bin/>cd ..
+/>cd tmp
+/tmp/>md code
+/tmp/>cd code
+/tmp/code/>md oope_testit
+/tmp/code/>cd oope_testit
+/tmp/code/oope_testit/>mf OmaListaTesti.java 7341
+/tmp/code/oope_testit/>mf HakemistoTesti.java 10300
+/tmp/code/oope_testit/>mf TietoTesti.java 6914
+/tmp/code/oope_testit/>mf a.txt 5
+/tmp/code/oope_testit/>mf README 100
+/tmp/code/oope_testit/>mf .gitignore 85
+/tmp/code/oope_testit/>mf mf_test.txt 20
+/tmp/code/oope_testit/>ls *.java
+HakemistoTesti.java 10300
+OmaListaTesti.java 7341
+TietoTesti.java 6914
+/tmp/code/oope_testit/>ls *.txt
+a.txt 5
+mf_test.txt 20
+/tmp/code/oope_testit/>ls .*
+.gitignore 85
+/tmp/code/oope_testit/>ls *Te*
+HakemistoTesti.java 10300
+OmaListaTesti.java 7341
+TietoTesti.java 6914
+/tmp/code/oope_testit/>cd
+/>cd home
+/home/>md aa00000
+/home/>cd aa00000
+/home/aa00000/>md oope2
+/home/aa00000/>cd oope2
+/home/aa00000/oope2/>md aa00000
+/home/aa00000/oope2/>cd aa00000
+/home/aa00000/oope2/aa00000/>md harjoitustyo
+/home/aa00000/oope2/aa00000/>cd harjoitustyo
+/home/aa00000/oope2/aa00000/harjoitustyo/>md apulaiset
+/home/aa00000/oope2/aa00000/harjoitustyo/>cd apulaiset
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>mf In.java 5624
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>mf Ooperoiva.java 2474
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>mf Sailova.java 2975
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>mf Syvakopioituva.java 996
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>mf Tietoinen.java 1462
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>ls *.java
+In.java 5624
+Ooperoiva.java 2474
+Sailova.java 2975
+Syvakopioituva.java 996
+Tietoinen.java 1462
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>exit
+Shell terminated.

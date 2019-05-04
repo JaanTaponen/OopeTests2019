@@ -1,0 +1,36 @@
+md tmp
+md home
+md bin
+cd bin
+mf grep 211224
+cd ..
+cd tmp
+md code
+cd code
+md oope_testit
+cd oope_testit
+mf OmaListaTesti.java 7341
+mf HakemistoTesti.java 10300
+mf TietoTesti.java 6914
+mf a.txt 5
+mf README 100
+mf .gitignore 85
+mf mf_test.txt 20
+cd
+cd home
+md aa00000
+cd aa00000
+md oope2
+cd oope2
+md aa00000
+cd aa00000
+md harjoitustyo
+cd harjoitustyo
+md apulaiset
+cd apulaiset
+mf In.java 5624
+mf Ooperoiva.java 2474
+mf Sailova.java 2975
+mf Syvakopioituva.java 996
+mf Tietoinen.java 1462
+exit

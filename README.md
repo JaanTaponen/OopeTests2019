@@ -1,12 +1,11 @@
 # OopeTests
 Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 
-**Vaatimuksia:**
+**Vaatimuksia(jokin seuraavista):**
 * WSL
 * Linux
 * Cygwin
-* Java asennettuna
-
+Javan tulee myös olla asennettuna.
 
 # Ohjeita
 1. Aseta oma harjoitustyosi kansioon "harjoitustyo"

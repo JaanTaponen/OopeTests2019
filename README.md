@@ -2,7 +2,7 @@
 Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 
 **Vaatimuksia(jokin seuraavista):**
-* WSL
+* WSL (https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * Linux
 * Cygwin
 

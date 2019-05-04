@@ -1,7 +1,7 @@
 # OopeTests
 Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 
-**Vaatimuksia(jokin seuraavista):**
+**Vaatimuksia(jokin seuraavista ajamaan itse scripti):**
 * WSL (https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * Linux
 * Cygwin

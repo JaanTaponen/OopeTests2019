@@ -6,8 +6,10 @@ Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 * Linux
 * Cygwin
 
-Javan tulee myös olla asennettuna.
-
+**Vaatimuksia(kaikki, asenna nämä esim WSL fresh installiin):**
+*repot pävitettynä (sudo apt update)
+*Git (sudo apt install git)
+*Java (sudo apt-get install openjdk-8-jdk -y)
 # Ohjeita
 1. Käännä ja aseta oma harjoitustyosi kansioon "harjoitustyo" (MUISTA ASETTAA TAVUKOODI eli .class tiedostot)
 2. "bash test.sh"

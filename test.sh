@@ -66,6 +66,6 @@ sed 's/>\([a-zA-Z0-9_./]\)/>\n\1/g' out.txt | diff -s --side-by-side --suppress-
 echo " "
 echo " "
 
-echo "-----------assignment-----------------------------------------------------------------------------------------------"
+echo "-----------assignment----------------------------------------------------------------------------------------"
 java harjoitustyo.Oope2HT < esimerkit/in_assignment.txt > out.txt  && 
 sed 's/>\([a-zA-Z0-9_./]\)/>\n\1/g' out.txt | diff -s --side-by-side --suppress-common-lines esimerkit/out_assignment.txt -

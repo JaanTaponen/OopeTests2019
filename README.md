@@ -5,6 +5,7 @@ Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 * WSL
 * Linux
 * Cygwin
+
 Javan tulee myös olla asennettuna.
 
 # Ohjeita

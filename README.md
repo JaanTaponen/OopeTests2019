@@ -31,5 +31,5 @@ Huomioi, että scriptin kääntäjä testaa laajaa harjoitustyötä, eli jos sin
 Mikäli scripti ei tahdo toimia, kokeile käynnistää itse harjoitustyösi manuaalisesti:
 (java harjoitustyo.Oope2HT), jos tämä toimii -> niin scriptikin toimii.
 
-# Esimerkki tulostus: 
+# Esimerkkitulostus: 
 ![](./materiaalia/image.png)

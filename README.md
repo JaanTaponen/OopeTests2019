@@ -16,8 +16,12 @@ Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 3. ????
 4. profit 
 
+Huomioi, että scriptin kääntäjä testaa laajaa harjoitustyötä, eli jos sinulla ei ole "iteraattorit" kansiota niin se ei toimi.
+-> tämä korjaantuu sillä, että luot manuaalisesti itse "iteraattorit" kansion harjoitustyöhösi.
+
+
 Mikäli scripti ei tahdo toimia, kokeile käynnistää itse harjoitustyösi manuaalisesti:
-(java harjoitustyo.Oope2HT), jos tämä toimii niin scriptikin toimii.
+(java harjoitustyo.Oope2HT), jos tämä toimii -> niin scriptikin toimii.
 
 # Esimerkki tulostus: 
 ![](./materiaalia/image.png)

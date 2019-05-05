@@ -11,7 +11,7 @@ Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 * Git (sudo apt install git)
 * Java (sudo apt-get install openjdk-8-jdk -y)
 # Ohjeita
-1. Käännä ja aseta oma harjoitustyosi kansioon "harjoitustyo" (MUISTA ASETTAA TAVUKOODI eli .class tiedostot)
+1. aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)
 2. "bash test.sh"
 3. ????
 4. profit 

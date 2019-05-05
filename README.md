@@ -19,4 +19,4 @@ Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
  (Joudut siis hieman tehdä manuaalista työtä)
 
 # Esimerkki tulostus: 
-![](image.png)
+![](./materiaalia/image.png)

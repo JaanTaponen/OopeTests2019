@@ -1,8 +1,8 @@
 ECHO OFF
 
-ECHO KÄÄNNETÄÄN JAVA
+ECHO KAANNETAAN JAVA
 PowerShell javac .\harjoitustyo\Oope2HT.java
-ECHO "KÄÄNNETÄÄN scripti"
+ECHO KAANNETAAN scripti
 
 java harjoitustyo.Oope2HT < syotteet\in_cd1.txt > tulokset\temp.txt   
 PowerShell "(Get-Content tulokset\temp.txt) -replace '>([a-zA-Z0-9_./]+)', "">`r`n`$1""" > tulokset\out_cd1.txt
@@ -45,7 +45,7 @@ DEL tulokset\temp.txt
 
 ECHO 
 ECHO -------------------------------------
-ECHO --Tulostetaan mahdolliset eriäväisyydet--
+ECHO --Tulostetaan mahdolliset eriavaisyydet--
 ECHO 
 java -jar Vertailu.jar
 ECHO -------------------------------------
@@ -57,9 +57,9 @@ DEL /F/Q/S *.* > NUL
 cd ..
 ECHO
 ECHO
-ECHO -------------------------------------
-ECHO Kasvata ikkunan kokoa niin se näkyy kunnolla
-ECHO -------------------------------------
+ECHO ---------------------------------------------------
+ECHO KASVATA KOMENTORIVIN KOKOA NIIN NAET RIVIT KUNNOLLA
+ECHO ---------------------------------------------------
 ECHO
 ECHO
 PAUSE

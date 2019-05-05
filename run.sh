@@ -53,9 +53,10 @@ echo ""
 java Vertailu
 echo "-------------------------------------"
 echo ""
+
 rm -rf tulosteesi
 cp tulokset -r tulosteesi
 
-rm tulokset/*
+rm tulokset/*.txt
 
 rm Vertailu.class

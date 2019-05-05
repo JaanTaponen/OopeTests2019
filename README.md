@@ -4,24 +4,30 @@ Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 # Miksi??
 Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametreille yhden testitiedoston testausta varten tai vertailla tulosteita silmämääräisesti.
 
-**Vaatimuksia(jokin seuraavista ajamaan itse scripti):**
-* WSL (https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-* Linux
-* Cygwin
+# Vaatimuksia
+Scriptistä on saatavilla kaksi versiota
+* CMD bat -scripti (Windows)
+* Bash -scripti
 
-**Vaatimuksia(kaikki, asenna nämä esim WSL fresh installiin):**
+# Ohjeita Windows
+1. aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)
+2. Tuplaklikkaa "run.bat"
+3. Scripti suoriutuu
+
+**GNU/Linux vaatimuksia**
 * repot pävitettynä (sudo apt update)
 * Git (sudo apt install git)
 * Java (sudo apt-get install openjdk-8-jdk -y)
-# Ohjeita
+
+# Ohjeita GNU/Linux
 1. aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)
 2. "bash run.sh"
 3. ????
 4. profit 
 
+# Troubleshoot
 Huomioi, että scriptin kääntäjä testaa laajaa harjoitustyötä, eli jos sinulla ei ole "iteraattorit" kansiota niin se ei toimi.
 -> tämä korjaantuu sillä, että luot manuaalisesti itse "iteraattorit" kansion harjoitustyöhösi.
-
 
 Mikäli scripti ei tahdo toimia, kokeile käynnistää itse harjoitustyösi manuaalisesti:
 (java harjoitustyo.Oope2HT), jos tämä toimii -> niin scriptikin toimii.

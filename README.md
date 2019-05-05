@@ -1,6 +1,9 @@
 # OopeTests
 Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 
+# Miksi??
+Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametreille yhden testitiedoston testausta varten tai vertailla tulosteita silmämääräisesti.
+
 **Vaatimuksia(jokin seuraavista ajamaan itse scripti):**
 * WSL (https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * Linux

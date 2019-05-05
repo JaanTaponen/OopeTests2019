@@ -4,11 +4,6 @@ Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 # Miksi??
 Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametreille yhden testitiedoston testausta varten tai vertailla tulosteita silmämääräisesti.
 
-# Vaatimuksia
-Scriptistä on saatavilla kaksi versiota
-* CMD bat -scripti (Windows)
-* Bash -scripti
-
 # Ohjeita Windows
 1. Aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)
 2. Tuplaklikkaa "run.bat"

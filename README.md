@@ -14,6 +14,9 @@ Scriptistä on saatavilla kaksi versiota
 2. Tuplaklikkaa "run.bat"
 3. Scripti suoriutuu
 
+**Windows vaatimuksia**
+* java asennettuna (jdk & jre)
+* JAVA Path asetettu oikein (jos java/javac komennot toimivat jo komentorivillä niin silloin kaikki ok)
 
 # Ohjeita GNU/Linux
 1. aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)

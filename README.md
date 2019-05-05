@@ -14,16 +14,17 @@ Scriptistä on saatavilla kaksi versiota
 2. Tuplaklikkaa "run.bat"
 3. Scripti suoriutuu
 
-**GNU/Linux vaatimuksia**
-* repot pävitettynä (sudo apt update)
-* Git (sudo apt install git)
-* Java (sudo apt-get install openjdk-8-jdk -y)
 
 # Ohjeita GNU/Linux
 1. aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)
 2. "bash run.sh"
 3. ????
 4. profit 
+
+**GNU/Linux vaatimuksia**
+* repot pävitettynä (sudo apt update)
+* Git (sudo apt install git)
+* Java (sudo apt-get install openjdk-8-jdk -y)
 
 # Troubleshoot
 Huomioi, että scriptin kääntäjä testaa laajaa harjoitustyötä, eli jos sinulla ei ole "iteraattorit" kansiota niin se ei toimi.

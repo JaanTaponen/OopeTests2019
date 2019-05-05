@@ -1,7 +1,0 @@
-Welcome to SOS.
-/>md tmp
-/>md home
-/>md bin
-/>md etc
-/>exit
-Shell terminated.

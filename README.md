@@ -10,7 +10,7 @@ Scriptistä on saatavilla kaksi versiota
 * Bash -scripti
 
 # Ohjeita Windows
-1. aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)
+1. Aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)
 2. Tuplaklikkaa "run.bat"
 3. Scripti suoriutuu
 

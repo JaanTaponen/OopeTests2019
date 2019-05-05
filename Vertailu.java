@@ -25,9 +25,10 @@ public class Vertailu {
                     String tulosExpectedRivi = inputTulosExpected.nextLine();
 
                     if (!tulosRivi.equals(tulosExpectedRivi)) {
-                        System.out.println("VIRHE TIEDOSTOSSA: " + esimerkit.get(i).getName() + "\n");
-                        System.out.println("VIRHE RIVILLÄ: " + rivi);
-                        System.out.println("PITÄISI OLLA: " + tulosExpectedRivi + "\n" + "SINUN OHJELMASI: " + tulosRivi);
+                        System.out.println("VIRHE TIEDOSTOSSA: " + esimerkit.get(i).getName());
+                        System.out.println("virhe rivilla: " + rivi);
+                        System.out.println("pitaisi olla: " + tulosExpectedRivi + "\n" + "sinun ohjelmasi: " + tulosRivi);
+                        System.out.println();
 						onnistuiko = false;
                         break;
                     }

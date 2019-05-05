@@ -5,7 +5,7 @@ javac *.java apulaiset/*.java iteraattorit/*.java tiedot/*.java omalista/*.java
 cd ..
 
 echo "KÄÄNNETÄÄN scripti"
-javac Main.java
+javac Vertailu.java
 
 java harjoitustyo.Oope2HT < syotteet/in_cd1.txt > tulokset/temp.txt  && 
 sed 's/>\([a-zA-Z0-9_./]\)/>\n\1/g' tulokset/temp.txt > tulokset/out_cd1.txt
@@ -48,8 +48,9 @@ rm tulokset/temp.txt
 
 echo ""
 echo "-------------------------------------"
-echo "Tulostetaan mahdolliset eriäväisyydet"
-java Main
+echo "--Tulostetaan mahdolliset eriäväisyydet--"
+echo ""
+java Vertailu
 echo "-------------------------------------"
 echo ""
 rm -rf tulosteesi
@@ -57,4 +58,4 @@ cp tulokset -r tulosteesi
 
 rm tulokset/*
 
-rm Main.class
+rm Vertailu.class

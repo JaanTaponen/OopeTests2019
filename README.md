@@ -2,7 +2,7 @@
 Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 
 ## Miksi??
-Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametreille yhden testitiedoston testausta varten tai vertailla tulosteita silmämääräisesti.
+Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametreilla yhden testitiedoston testausta varten tai vertailla tulosteita silmämääräisesti.
 
 # Ohjeita Windows
 1. Aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)

@@ -1,7 +1,7 @@
 # OopeTests
 Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 
-# Miksi??
+## Miksi??
 Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametreille yhden testitiedoston testausta varten tai vertailla tulosteita silmämääräisesti.
 
 # Ohjeita Windows

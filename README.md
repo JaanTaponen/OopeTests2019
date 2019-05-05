@@ -12,11 +12,12 @@ Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
 * Java (sudo apt-get install openjdk-8-jdk -y)
 # Ohjeita
 1. aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)
-2. "bash test.sh"
+2. "bash run.sh"
 3. ????
 4. profit 
-5. mikäli syötteet olivat identtisiä, ohjelma toimii kuten pitääkin.
- (Joudut siis hieman tehdä manuaalista työtä)
+
+Mikäli scripti ei tahdo toimia, kokeile käynnistää itse harjoitustyösi manuaalisesti:
+(java harjoitustyo.Oope2HT), jos tämä toimii niin scriptikin toimii.
 
 # Esimerkki tulostus: 
 ![](./materiaalia/image.png)

@@ -1,4 +1,8 @@
 #!/bin/bash
+echo "KÄÄNNETÄÄN JAVA"
+cd harjoitustyo
+javac *.java apulaiset/*.java iteraattorit/*.java tiedot/*.java omalista/*.java 
+cd ..
 
 echo "-----------cd1-----------------------------------------------------------------------------------------------"
 java harjoitustyo.Oope2HT < esimerkit/in_cd1.txt > out.txt  && 
@@ -24,7 +28,7 @@ sed 's/>\([a-zA-Z0-9_./]\)/>\n\1/g' out.txt | diff -s --side-by-side --suppress-
 echo " "
 echo " "
 
-echo "-----------ls2-----------------------------------------------------------------------------------------------
+echo "-----------ls2-----------------------------------------------------------------------------------------------"
 java harjoitustyo.Oope2HT < esimerkit/in_ls2.txt > out.txt  && 
 sed 's/>\([a-zA-Z0-9_./]\)/>\n\1/g' out.txt | diff -s --side-by-side --suppress-common-lines esimerkit/out_ls2.txt -
 echo " "

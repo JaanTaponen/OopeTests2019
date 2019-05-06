@@ -1,0 +1,44 @@
+md pics
+cd pics
+md cats
+cd cats
+mf ceiling_cat.gif 3677
+mf dangerous_kitten.jpg 13432
+mf grumpy_cat.jpeg 335932
+mf cannot_be_unseen.jpeg 29614
+cd ..
+md dogs
+cd dogs
+mf worlds_ugliest_dog.jpg 118088
+mf puppies.png 90329
+mf original_doge.jpg 12448
+cp puppies.png original_doge.jpg
+cp makenaattori.bmp worlds_ugliest_dog.bmp
+cp makenaattori.bmp makenaattori2.bmp
+cp *.jpg puppies.png
+cp *.jpg mush
+ls
+md backup
+cp worlds_ugliest_dog.jpg backup
+cp puppies.png backup
+cp original_doge.jpg backup
+cp worlds_ugliest_dog.jpg backup
+md work
+cp work backup
+cd backup
+ls
+cd ..
+cd ..
+cd cats
+cp *.jpeg ..
+cp *.jpeg ..
+md backup
+cp *_* backup
+cp *_* backup
+cd backup
+ls
+cd ..
+cd ..
+ls
+find pics
+exit

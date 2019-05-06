@@ -1,0 +1,57 @@
+Welcome to SOS.
+/>
+/>
+/pics/>
+/pics/>
+/pics/cats/>
+/pics/cats/>
+/pics/cats/>
+/pics/cats/>
+/pics/cats/>
+/pics/>
+/pics/>
+/pics/dogs/>
+/pics/dogs/>
+/pics/dogs/>
+/pics/dogs/>
+/pics/dogs/>
+MyDoge.jpg 12448
+original_doge.jpg 12448
+puppies.png 90329
+worlds_ugliest_dog.jpg 118088
+/pics/dogs/>
+/pics/dogs/>
+/pics/dogs/>
+/pics/dogs/>
+/pics/dogs/>
+MyDoge.jpg 12448
+backup/ 3
+original_doge.jpg 12448
+puppies.png 90329
+worlds_ugliest_dog.jpg 118088
+/pics/dogs/>
+/pics/dogs/backup/>
+original_doge.jpg 12448
+puppies.png 90329
+worlds_ugliest_dog.jpg 118088
+/pics/dogs/backup/>
+/pics/dogs/>
+/pics/>
+/pics/cats/>
+/pics/cats/>
+/pics/cats/>
+/pics/cats/>
+/pics/cats/backup/>
+cannot_be_unseen.jpeg 29614
+ceiling_cat.gif 3677
+dangerous_kitten.jpg 13432
+grumpy_cat.jpeg 335932
+/pics/cats/backup/>
+/pics/cats/>
+/pics/>
+cannot_be_unseen.jpeg 29614
+cats/ 5
+dogs/ 5
+grumpy_cat.jpeg 335932
+/pics/>
+Shell terminated.

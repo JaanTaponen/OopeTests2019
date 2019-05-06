@@ -1,0 +1,76 @@
+Welcome to SOS.
+/>
+/>
+/oope2_2019/>
+/oope2_2019/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/harjoitustyo/>
+/oope2_2019/javadocs/harjoitustyo/>
+/oope2_2019/javadocs/harjoitustyo/>
+/oope2_2019/javadocs/harjoitustyo/tiedot/>
+/oope2_2019/javadocs/harjoitustyo/tiedot/>
+/oope2_2019/javadocs/harjoitustyo/tiedot/>
+/oope2_2019/javadocs/harjoitustyo/tiedot/>
+/oope2_2019/javadocs/harjoitustyo/>
+/oope2_2019/javadocs/harjoitustyo/>
+/oope2_2019/javadocs/harjoitustyo/omalista/>
+/oope2_2019/javadocs/harjoitustyo/omalista/>
+/oope2_2019/javadocs/harjoitustyo/>
+/oope2_2019/javadocs/>
+/oope2_2019/javadocs/resources/>
+/oope2_2019/javadocs/resources/>
+/oope2_2019/javadocs/resources/>
+/oope2_2019/javadocs/resources/>
+/oope2_2019/javadocs/resources/>
+/oope2_2019/javadocs/resources/>
+/oope2_2019/javadocs/resources/>
+/>
+oope2_2019/ 1
+javadocs/ 16
+allclasses_frame.html 2319
+allclasses_noframe.html 2059
+constant_values.html 11993
+deprecated_list.html 3438
+harjoitustyo/ 3
+Oope2HT.html 11938
+omalista/ 1
+OmaLista.html 16798
+tiedot/ 3
+Hakemisto.html 29655
+Tiedosto.html 16766
+Tieto.html 21511
+help_doc.html 8247
+index.html 2758
+index_all.html 40910
+overview_frame.html 1435
+overview_summary.html 4849
+overview_tree.html 7291
+package_list 148
+resources/ 6
+activetitlebar.gif 10824
+activetitlebar_end.gif 909
+background.gif 2313
+tab.gif 291
+titlebar.gif 10701
+titlebar_end.gif 849
+script.js 857
+serialized_form.html 6478
+stylesheet.css 13078
+/>
+Shell terminated.

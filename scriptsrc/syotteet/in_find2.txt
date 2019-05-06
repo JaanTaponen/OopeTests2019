@@ -1,0 +1,43 @@
+md oope2_2019
+cd oope2_2019
+md javadocs
+cd javadocs
+md resources
+md harjoitustyo
+mf package_list 148
+mf script.js 857
+mf overview_frame.html 1435
+mf allclasses_noframe.html 2059
+mf allclasses_frame.html 2319
+mf index.html 2758
+mf deprecated_list.html 3438
+mf overview_summary.html 4849
+mf serialized_form.html 6478
+mf overview_tree.html 7291
+mf help_doc.html 8247
+mf constant_values.html 11993
+mf stylesheet.css 13078
+mf index_all.html 40910
+cd harjoitustyo
+mf Oope2HT.html 11938
+md tiedot
+cd tiedot
+mf Tiedosto.html 16766
+mf Tieto.html 21511
+mf Hakemisto.html 29655
+cd ..
+md omalista
+cd omalista
+mf OmaLista.html 16798
+cd ..
+cd ..
+cd resources
+mf tab.gif 291
+mf titlebar_end.gif 849
+mf activetitlebar_end.gif 909
+mf background.gif 2313
+mf titlebar.gif 10701
+mf activetitlebar.gif 10824
+cd
+find
+exit

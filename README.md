@@ -15,7 +15,7 @@ Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametrei
 * Java asennettuna (jdk & jre)
 * JAVA-Path asetettu oikein (jos java/javac komennot toimivat jo komentorivillä niin silloin kaikki ok)
 
-# Ohjeita GNU/Linux (TÄLLÄ HETKELLÄ SH VERSIO EI OLE VIELÄ PÄIVITETTY TOIMIMAAN UUSIMPIEN TESTIEN KÄYTTÖÄ VARTEN!)
+# Ohjeita GNU/Linux (TÄLLÄ HETKELLÄ .sh VERSIO EI OLE VIELÄ PÄIVITETTY TOIMIMAAN UUSIMPIEN TESTIEN KÄYTTÖÄ VARTEN!)
 1. aseta oma harjoitustyosi kansioon "harjoitustyo" (scripti kääntää koodin automaattisesti)
 2. "bash run.sh"
 3. ????

@@ -32,5 +32,5 @@ Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametrei
 Mikäli scripti ei tahdo toimia, kokeile käynnistää itse harjoitustyösi manuaalisesti:
 (java harjoitustyo.Oope2HT), jos tämä toimii -> niin scriptikin toimii.
 
-# Esimerkkitulostus: 
+# Esimerkkitulostus (simpleTest.sh): 
 ![](./scriptsrc/materiaalia/image.png)

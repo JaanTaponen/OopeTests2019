@@ -44,12 +44,10 @@ DEL scriptsrc\tulokset\temp.txt
 
 cd scriptsrc
 
-ECHO 
 ECHO -------------------------------------
 ECHO --Tulostetaan mahdolliset eriavaisyydet--
 ECHO 
 java -jar Vertailu.jar
-ECHO -------------------------------------
 rmdir /S /Q ..\tulosteesi
 xcopy tulokset ..\tulosteesi\ > NUL
 cd tulokset

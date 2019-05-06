@@ -44,10 +44,8 @@ DEL scriptsrc\tulokset\temp.txt
 
 cd scriptsrc
 
-ECHO 
 ECHO -------------------------------------
 ECHO --Tulostetaan mahdolliset eriavaisyydet--
-ECHO 
 javac Vertailu.java
 java Vertailu
 DEL Vertailu.class
@@ -59,7 +57,4 @@ DEL /F/Q/S *.* > NUL
 cd ..
 cd ..\harjoitustyo
 DEL /F/Q/S *.class > NUL
-ECHO ---------------------------------------------------
-ECHO KASVATA KOMENTORIVIN KOKOA NIIN NAET RIVIT KUNNOLLA
-ECHO ---------------------------------------------------
 PAUSE

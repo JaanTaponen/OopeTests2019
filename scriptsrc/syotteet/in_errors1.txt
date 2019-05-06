@@ -1,0 +1,51 @@
+A-well-a, everybody's heard about the bird
+md
+md #birds
+md bird bird bird
+md ..
+dir
+LS
+ls
+ls flown_away.gif
+ls *.txt
+cd ..
+cd missing
+cd $#%&/()=?
+md bird
+cd bird is the word
+cd bird
+md bird
+cd bird
+mf %bird.jpg 3465
+mf bird+.jpg 3465
+mf bird.jpg -3465
+mf bird.jpg 3A
+mf bird.jpg 1.234
+mf
+mf bird.jpg 3465 x
+mf bird.jpg 3465
+md bird.jpg
+mf bird.jpg 986521
+cd bird.jpg
+ls
+mf bird2.jpg 986521
+md nest
+ls
+ls bird.jpg bird2.jpg nest
+mv bird.jpg bird2.jpg
+mv bird.jpg nest
+mv nest bird.jpg
+mv bird3 bird4
+mv bird.jpg bird3 x
+mv bird! bird3
+mv bird.jpg bird?.gif
+ls
+ls *.gif
+rm
+rm *.txt
+rm bird3
+rm bird.jpg bird2.jpg
+cd bird
+ls
+Exit
+exit

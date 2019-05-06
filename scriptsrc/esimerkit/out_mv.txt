@@ -1,0 +1,68 @@
+Welcome to SOS.
+/>
+/>
+/>
+/>
+/bin/>
+/bin/>
+/>
+/tmp/>
+/tmp/>
+/tmp/code/>
+/tmp/code/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+.gitignore 85
+HakemistoTesti.java 10300
+OmaListaTesti.java 7341
+README 100
+TietoTesti.java 6914
+a.txt 5
+mf_test.txt 20
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+.gitignore 85
+HakemistoTesti.java 10300
+Notes 5
+OmaListaTesti.java 7341
+README.md 100
+TietoTesti.java 6914
+mf_test.txt 20
+/tmp/code/oope_testit/>
+/>
+/home/>
+/home/>
+/home/aa00000/>
+/home/aa00000/>
+/home/aa00000/oope2/>
+/home/aa00000/oope2/>
+/home/aa00000/oope2/aa00000/>
+/home/aa00000/oope2/aa00000/>
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+Tiedot/ 0
+apulaiset/ 5
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+apulaiset/ 5
+tiedot/ 0
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+/home/aa00000/oope2/aa00000/>
+harjoitustyo/ 2
+/home/aa00000/oope2/aa00000/>
+Shell terminated.

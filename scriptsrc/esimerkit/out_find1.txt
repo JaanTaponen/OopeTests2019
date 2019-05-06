@@ -1,0 +1,139 @@
+Welcome to SOS.
+/>
+/>
+/>
+/>
+/>
+bin/ 0
+home/ 0
+tmp/ 0
+/>
+/bin/>
+/bin/>
+/bin/>
+grep 211224
+/bin/>
+/>
+bin/ 1
+/>
+/tmp/>
+/tmp/>
+/tmp/code/>
+/tmp/code/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+/tmp/code/oope_testit/>
+.gitignore 85
+HakemistoTesti.java 10300
+OmaListaTesti.java 7341
+README 100
+TietoTesti.java 6914
+a.txt 5
+mf_test.txt 20
+/tmp/code/oope_testit/>
+OmaListaTesti.java 7341
+/tmp/code/oope_testit/>
+HakemistoTesti.java 10300
+/tmp/code/oope_testit/>
+TietoTesti.java 6914
+/tmp/code/oope_testit/>
+a.txt 5
+/tmp/code/oope_testit/>
+README 100
+/tmp/code/oope_testit/>
+.gitignore 85
+/tmp/code/oope_testit/>
+mf_test.txt 20
+/tmp/code/oope_testit/>
+/tmp/code/>
+oope_testit/ 7
+/tmp/code/>
+/>
+/home/>
+/home/>
+/home/aa00000/>
+/home/aa00000/>
+/home/aa00000/oope2/>
+/home/aa00000/oope2/>
+/home/aa00000/oope2/aa00000/>
+/home/aa00000/oope2/aa00000/>
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+apulaiset/ 0
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+In.java 5624
+Ooperoiva.java 2474
+Sailova.java 2975
+Syvakopioituva.java 996
+Tietoinen.java 1462
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+apulaiset/ 5
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+/>
+bin/ 1
+grep 211224
+home/ 1
+aa00000/ 1
+oope2/ 1
+aa00000/ 1
+harjoitustyo/ 1
+apulaiset/ 5
+In.java 5624
+Ooperoiva.java 2474
+Sailova.java 2975
+Syvakopioituva.java 996
+Tietoinen.java 1462
+tmp/ 1
+code/ 1
+oope_testit/ 7
+.gitignore 85
+HakemistoTesti.java 10300
+OmaListaTesti.java 7341
+README 100
+TietoTesti.java 6914
+a.txt 5
+mf_test.txt 20
+/>
+/home/>
+/home/aa00000/>
+oope2/ 1
+aa00000/ 1
+harjoitustyo/ 1
+apulaiset/ 5
+In.java 5624
+Ooperoiva.java 2474
+Sailova.java 2975
+Syvakopioituva.java 996
+Tietoinen.java 1462
+/home/aa00000/>
+/home/aa00000/oope2/>
+/home/aa00000/oope2/aa00000/>
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+apulaiset/ 5
+In.java 5624
+Ooperoiva.java 2474
+Sailova.java 2975
+Syvakopioituva.java 996
+Tietoinen.java 1462
+/home/aa00000/oope2/aa00000/harjoitustyo/>
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+In.java 5624
+Ooperoiva.java 2474
+Sailova.java 2975
+Syvakopioituva.java 996
+Tietoinen.java 1462
+/home/aa00000/oope2/aa00000/harjoitustyo/apulaiset/>
+Shell terminated.

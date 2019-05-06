@@ -10,7 +10,7 @@ Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametrei
 3. Scripti suoriutuu
 
 **Windows vaatimuksia**
-* Harjoitustyo samassa kansiossa (jonka sisällä .java lähdekoodi), siten että "harjoitustyo" kansion -juuresta löytyy Oope2HT.java (ja kaikki muut tietysti)
+* Harjoitustyo asetettu "harjoitustyo" kansioon. (niin, että sen sisältä löytyy Oope2HT.java yms)
 * "iteraattorit" kansio on olemassa.
 * Java asennettuna (jdk & jre)
 * JAVA-Path asetettu oikein (jos java/javac komennot toimivat jo komentorivillä niin silloin kaikki ok)

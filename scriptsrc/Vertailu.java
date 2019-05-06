@@ -29,7 +29,7 @@ public class Vertailu {
                         System.out.println("virhe rivilla: " + rivi);
                         System.out.println("pitaisi olla: " + tulosExpectedRivi + "\n" + "sinun ohjelmasi: " + tulosRivi);
                         System.out.println();
-						onnistuiko = false;
+			onnistuiko = false;
                         break;
                     }
                     rivi ++;
@@ -41,8 +41,8 @@ public class Vertailu {
                 ex.printStackTrace();
             }	
         }
-		if (onnistuiko) {
-			System.out.println("\nKaikki testit ok!\n");
-		}	
+	if (onnistuiko) {
+	    System.out.println("\nKaikki testit ok!\n");
+	}	
     }
 }

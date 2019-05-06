@@ -53,7 +53,7 @@ public class Vertailu
                     String inputRivi = "";
                     if (inputFeed.hasNextLine())
                     {
-                        if (tulosExpectedRivi.contains("/>") || tulosExpectedRivi.contains("Error!"))
+                        if (tulosExpectedRivi.contains("/>"))
                         {
                             inputRivi = inputFeed.nextLine();
                         }

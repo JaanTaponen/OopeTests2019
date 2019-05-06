@@ -1,5 +1,11 @@
 ECHO OFF
 
+cd scriptsrc
+cd tulokset
+DEL /F/Q/S *.* > NUL
+cd ..
+cd ..
+
 ECHO KAANNETAAN JAVA
 PowerShell javac .\harjoitustyo\Oope2HT.java
 ECHO KAANNETAAN scripti
@@ -50,11 +56,7 @@ javac Vertailu.java
 java Vertailu
 DEL Vertailu.class
 ECHO -------------------------------------
-rmdir /S /Q ..\tulosteesi
-xcopy tulokset ..\tulosteesi\ > NUL
-cd tulokset
-DEL /F/Q/S *.* > NUL
-cd ..
+
 cd ..\harjoitustyo
 DEL /F/Q/S *.class > NUL
 PAUSE

@@ -4,6 +4,8 @@ cd harjoitustyo
 javac *.java apulaiset/*.java iteraattorit/*.java tiedot/*.java omalista/*.java 
 cd ../scriptsrc
 
+rm tulokset/*.txt
+
 #echo "KÄÄNNETÄÄN scripti"
 #javac Vertailu.java
 
@@ -57,10 +59,7 @@ java Vertailu
 echo "-------------------------------------"
 echo ""
 
-rm -rf ../tulosteesi
-cp tulokset -r ../tulosteesi
 
-rm tulokset/*.txt
 
 rm Vertailu.class
 

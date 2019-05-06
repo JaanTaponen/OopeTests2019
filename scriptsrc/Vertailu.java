@@ -15,8 +15,8 @@ public class Vertailu {
 		boolean onnistuiko = true;
         for (int i = 0; i < esimerkit.size(); i++) {
             try {
-                Scanner inputTulos = new Scanner(esimerkit.get(i));
-                Scanner inputTulosExpected = new Scanner(tulokset.get(i));
+                Scanner inputTulos = new Scanner(tulokset.get(i));
+                Scanner inputTulosExpected = new Scanner(esimerkit.get(i));
 
                 int rivi = 1;
                 while (inputTulosExpected.hasNextLine()) {

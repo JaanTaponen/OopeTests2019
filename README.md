@@ -1,5 +1,5 @@
 # OopeTests
-Tällä bash scriptillä voit testata omaa harjoitustyötäsi.
+Tällä bash/bat scriptillä voit testata omaa harjoitustyötäsi.
 
 ## Miksi??
 Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametreilla yhden testitiedoston testausta varten tai vertailla tulosteita silmämääräisesti.

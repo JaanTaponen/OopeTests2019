@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Vertailu {
-
     public static void main(String[] args) {
         File f1 = new File("esimerkit");
         ArrayList<File> esimerkit = new ArrayList<File>(Arrays.asList(f1.listFiles()));
@@ -12,7 +11,7 @@ public class Vertailu {
         File f2 = new File("tulokset");
         ArrayList<File> tulokset = new ArrayList<File>(Arrays.asList(f2.listFiles()));
 
-		boolean onnistuiko = true;
+	boolean onnistuiko = true;
         for (int i = 0; i < esimerkit.size(); i++) {
             try {
                 Scanner inputTulos = new Scanner(tulokset.get(i));

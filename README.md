@@ -11,7 +11,6 @@ Koska kukaan ei jaksa kirjoittaa manuaalisesti kahta eri komentoa eri parametrei
 
 **Windows vaatimuksia**
 * Harjoitustyo asetettu "harjoitustyo" kansioon. (niin, että sen sisältä löytyy Oope2HT.java yms)
-*
 * Java asennettuna (jdk & jre)
 * JAVA-Path asetettu oikein (jos java/javac komennot toimivat jo komentorivillä niin silloin kaikki ok)
 
